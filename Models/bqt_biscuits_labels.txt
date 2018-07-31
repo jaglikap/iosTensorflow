@@ -1,0 +1,50 @@
+item {
+id: 1
+name: 'defect1'
+display_name: 'defect1'
+}
+item {
+id: 2
+name: 'defect2'
+display_name: 'defect2'
+}
+item {
+id: 3
+name: 'defect3'
+display_name: 'defect3'
+}
+item {
+id: 4
+name: 'defect4'
+display_name: 'defect4'
+}
+item {
+id: 5
+name: 'defect5'
+display_name: 'defect5'
+}
+item {
+id: 6
+name: 'defect6'
+display_name: 'defect6'
+}
+item {
+id: 7
+name: 'defect7'
+display_name: 'defect7'
+}
+item {
+id: 8
+name: 'defect8'
+display_name: 'defect8'
+}
+item {
+id: 9
+name: 'defect9'
+display_name: 'defect9'
+}
+item {
+id: 10
+name: 'ideal'
+display_name: 'ideal'
+}
